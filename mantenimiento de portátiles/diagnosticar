@@ -1,1 +1,105 @@
+## diasnosticar el equipos de computo  
+- Encender el equipo de cómputo.
+
+- A través de un software del equipo identificar valores nominales de la operación (velocidad, capacidad de almacenamiento, voltaje, etc.)
+
+- Identifica códigos de error y señales de alerta de los componentes.
+
+- Hacer una tabla comparativa de las características y valores nominales del manual del equipo y los valores obtenidos a través del software de diagnóstico.
+
+- Utiliza un buen antivirus y un buen firewall
+
+- Tu software debe estar actualizado
+
+- Haz una limpieza digital
+
+- Realiza copias de seguridad
+
+- Apaga la computadora usando el sistema operativo
+
+- Limpia tu portátil
+
+- Mantén los líquidos alejados de tu laptop
+
+
+## Mantenimiento de portátiles – Hardware
+
+#### Limpieza de la pantalla
+
+- La pantalla es uno de los componentes más delicados de nuestro portátil y por ello la limpieza hay que efectuarla con extremo cuidado. Conviene utilizar productos especializados como espumas, y paños suaves para limpiado y secado con el fin de que no queden restos de líquido. La mejor forma de hacerlo es rociar el limpiador sobre el paño y luego limpiar la pantalla con él, frotando suavemente en una sola dirección. Evita cualquier tipo de producto que contenga acetona, alcohol etílico, tolueno, acetato de ácidos, amoniaco, o cloruro de metilo. El uso de cualquiera de los productos químicos anteriores puede causar daños permanentes en la pantalla.
+
+![nombre de la imagen](https://www.muycomputer.com/wp-content/uploads/2021/01/Mantenimiento_de_portatiles_2.jpg)
+
+
+
+#### Limpieza del chasis
+
+Es una tarea simple y sencilla utilizando productos especializados u otros que todos tenemos a mano. Simplemente agua tibia ligeramente jabonosa y un paño de tipo microfibra bien escurrido que no deje pelusas, con especial cuidado de no introducir ningún tipo de líquido por las rejillas de ventilación. Hay un montón de kits a la venta en Internet muy baratos que también te valdrán para la pantalla y que incluyen paños y líquidos específicos. Recuerda, sin amoniacos ni alcoholes.
+
+#### Limpieza del teclado y trackpad 
+
+Comenzaríamos por retirar el polvo y restos entre las teclas con un bote de aire comprimido y/o un mini aspirador especial para teclados que suele incluir un cepillo limpiador para accesos a zonas difíciles. En casos extremos pueden retirarse las teclas. Después haríamos la limpieza de la misma forma que con el chasis, evitando que la humedad se cuele por debajo de las teclas y afecte a la electrónica.
+
+![teclado imagen]( https://www.muycomputer.com/wp-content/uploads/2020/03/C%C3%B3mo-limpiar-y-desinfectar-el-ordenador-8-e1585148427872.jpg)
+
+
+#### Limpieza de las rejillas de ventilación y puertos
+
+Es un apartado importante porque la suciedad o polvo localizada en estas aberturas puede disminuir el rendimiento del equipo, obligar a que los ventiladores estén permanentemente conectados, apagar el equipo si sube de temperatura por encima del límite de seguridad y como decíamos, terminar reduciendo la vida útil de los componentes. Para su limpieza, podemos utilizar un mini aspirador y un bote de aire comprimido soplando en las rejillas de ventilación y en todos los puertos del portátil, teniendo cuidado con la presión para no dañar los componentes.
+
+#### Limpieza interna 
+
+Si tu portátil lo permite y crees que la suciedad también ha llegado al interior (no podrías creer como están algunos) pueden retirarse los paneles para mejorar el acceso. Si tienes conocimientos y no hay problema con la garantía, un desmontado y limpieza general anual viene genial. Aquí incluiríamos el cambio de pasta térmica en la CPU y la limpieza de componentes internos especialmente los ventiladores. El mini aspirador comentado para el teclado y el bote de aire comprimido (teniendo cuidado con la presión para no dañar los componentes) son el material a utilizar. Bloquea los ventiladores antes de aplicar el aire a presión ya que si giran locos, después te harán ruido toda la vida.
+
+
+![desmontage imagen]( https://www.muycomputer.com/wp-content/uploads/2021/01/Mantenimiento_de_portatiles_5.jpg)
+
+
+#### Limpieza de periféricos
+
+Y no olvidemos los periféricos como ratones, auriculares o lápices ópticos donde además de limpieza también debemos desinfectar con una solución de agua y lejía diluida y un paño de microfibra, repasando en los ratones toda la superficie superior e inferior, la botonera y la rueda de scroll, y teniendo cuidado con el almohadillado de los auriculares.
+
+
+## Mantenimiento de portátiles – Software
+
+Tan importante como la limpieza física del hardware es la digital del software. Una lleva a la otra y conviene realizarla como una tarea regular de mantenimiento. Algunas cuestiones básicas.
+
+#### Actualización del sistema operativo
+
+El sistema operativo es la base software de nuestro equipo y debemos asegurarnos que esté actualizado a la compilación más reciente o al menos que tenga instalado los últimos parches de seguridad publicados. Cuando las versiones son más antiguas, tienen mayor riesgo de ser atacadas por ciberdelincuentes que encuentran vulnerabilidades en el programa. Todos los sistemas operativos tienen programas automatizados para actualizar las versiones o manuales descargando la última versión.
+
+#### Actualización de las aplicaciones
+
+Tan importante como la actualización del sistema operativo es la de las aplicaciones. Las nuevas versiones de las aplicaciones que tengamos instaladas ofrecerán más rendimiento y estabilidad en la mayoría de ocasiones. Además, el malware tiene un método de infección preferente aprovechando las vulnerabilidades de software. Especialmente aplicaciones críticas como navegadores web, sus extensiones y plug-ins, Flash, Java, etc. Lo mismo podemos decir de las actualizaciones de los controladores, especialmente tarjetas gráficas que conviene tener perfectamente al día con la última versión proporcionada por los fabricantes.
+
+#### Copia de seguridad
+
+Las copias de seguridad son una acción de mantenimiento imprescindible a realizar por cualquier profesional o usuario para salvaguardar sus datos. Un equipo informático puede fallar en cualquier momento, por un problema hardware en alguno de sus componentes como la unidad de almacenamiento o memorias, en el software del sistema y aplicaciones o por un virus que borre archivos o impida el acceso al equipo. La pérdida de nuestros archivos profesionales o personales puede tener un gran coste y en algunas ocasiones sin recuperación posible y de ahí la importancia de realizar regularmente esta tarea de backup. Aprovecha esta «parada técnica» para realizarla.
+
+![copia de seguri imagen](https://www.muycomputer.com/wp-content/uploads/2021/01/Mantenimiento_de_portatiles_7.jpg )
+
+#### Aumenta la seguridad
+
+Otra tarea incluida en el mantenimiento de portátiles implica mejorar la seguridad de los mismos. Aprovecha la «limpieza» descargando o ejecutando si la tienes instalada la última versión de tu solución de seguridad y escanea el sistema en busca de malware, incluye en la operación discos duros externos o pendrives que también utilices habitualmente. Para el malware persistente, oculto en el sistema, nada mejor que utilizar antivirus “Live CD/USB”, creados en unidades extraíbles y con capacidad de autoarranque sin interferir con el sistema operativo instalado.
+
+#### Cambia tus contraseñas
+
+Completando el apartado de la seguridad, puedes aprovechar para renovar las contraseñas de acceso a tu equipo y servicios, un asunto importante que conviene hacer con regularidad. Las claves deben ser largas y complejas. No se deben utilizar palabras del diccionario ni nombres. Además, se recomienda combinar caracteres no alfanuméricos, mayúsculas y minúsculas. Una opción recomendada es utilizar un ‘password manager’ que además de proteger nuestra identidad evita tener que crear y recordar múltiples contraseñas.
+
+
+#### Elimina programas que no usas
+
+Es probable que tengas un buen número de aplicaciones que ya no utilizas. Es un buen momento para eliminar estos programas que están ocupando memoria y almacenamiento en tu portátil profesional ralentizando su funcionamiento. Todos los sistemas incluyen una función de desinstalación de programas. En Windows desde el panel de control o la herramienta general de Configuración.
+
+#### Reduce la carga de Inicio
+
+Los sistemas operativos Windows cuentan con una función de configuración del sistema denominada «msconfig», que además de servicios avanzados, nos permite seleccionar las aplicaciones que se cargan en el arranque del equipo, reduciendo la carga del mismo y mejorando su rendimiento. Puedes acceder con el nombre del comando, «msconfig», desde la función ejecutar. En Windows 10, puedes usar el “administrador de tareas” para administrar los elementos de inicio.
+
+#### Activa la restauración del sistema
+
+El System Restore es una herramienta de recuperación del sistema que permite revertir los cambios realizados en los archivos del sistema operativo, configuración, ajustes, controladores, claves del registro o programas instalados. La restauración del sistema es una herramienta que puede “salvarnos la vida” ante un error del software, la entrada de virus en nuestro equipo o la simple instalación de drivers o de alguna aplicación que no funciona correctamente y que en ocasiones desestabiliza el sistema operativo.
+
+#### Comprobación de la batería
+
+La batería es otro de los componentes más importantes de un ordenador portátil. Aunque es un material fungible que tendremos que sustituir antes de que su vida útil llegue a su fin y penalice nuestra autonomía, se pueden realizar una serie de pasos para maximizar la salud de la batería, su rendimiento y extender su vida útil, comenzando por la comprobación de su estado y la realización de su calibración, entre otras tareas de mantenimiento.
 
